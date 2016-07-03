@@ -1,0 +1,46 @@
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\Лаби 3 курс\Візуальне програмування\Lab6\Lab6\bin\Debug\Lab6.exe
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\Лаби 3 курс\Візуальне програмування\Lab6\Lab6\bin\Debug\Lab6.pdb
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\Лаби 3 курс\Візуальне програмування\Lab6\Lab6\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\Лаби 3 курс\Візуальне програмування\Lab6\Lab6\obj\x86\Debug\Lab6.Form1.resources
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\Лаби 3 курс\Візуальне програмування\Lab6\Lab6\obj\x86\Debug\Lab6.Properties.Resources.resources
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\Лаби 3 курс\Візуальне програмування\Lab6\Lab6\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\Лаби 3 курс\Візуальне програмування\Lab6\Lab6\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\Лаби 3 курс\Візуальне програмування\Lab6\Lab6\obj\x86\Debug\Lab6.exe
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\Лаби 3 курс\Візуальне програмування\Lab6\Lab6\obj\x86\Debug\Lab6.pdb
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\Лаби 3 курс\Візуальне програмування\Lab6\Lab6\obj\x86\Debug\Lab6.Form2.resources
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\Лаби 3 курс\Візуальне програмування\Lab6\Lab6\obj\x86\Debug\Lab6.Form3.resources
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\3 курс\Візуальне програмування\Lab6\Lab6\obj\x86\Debug\Lab6.exe
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\3 курс\Візуальне програмування\Lab6\Lab6\obj\x86\Debug\Lab6.pdb
+\\psf\Home\Desktop\візуальне\Lab6\Lab6\obj\x86\Debug\Lab6.exe
+\\psf\Home\Desktop\візуальне\Lab6\Lab6\obj\x86\Debug\Lab6.pdb
+\\psf\Home\Desktop\візуальне\Lab6\Lab6\bin\Debug\Lab6.exe
+\\psf\Home\Desktop\візуальне\Lab6\Lab6\bin\Debug\Lab6.pdb
+\\psf\Home\Desktop\візуальне\Lab6\Lab6\obj\x86\Debug\ResolveAssemblyReference.cache
+\\psf\Home\Desktop\візуальне\Lab6\Lab6\obj\x86\Debug\Lab6.Form1.resources
+\\psf\Home\Desktop\візуальне\Lab6\Lab6\obj\x86\Debug\Lab6.Form2.resources
+\\psf\Home\Desktop\візуальне\Lab6\Lab6\obj\x86\Debug\Lab6.Form3.resources
+\\psf\Home\Desktop\візуальне\Lab6\Lab6\obj\x86\Debug\Lab6.Properties.Resources.resources
+\\psf\Home\Desktop\візуальне\Lab6\Lab6\obj\x86\Debug\GenerateResource.read.1.tlog
+\\psf\Home\Desktop\візуальне\Lab6\Lab6\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Назар\Desktop\Lab6\Lab6\obj\x86\Debug\Lab6.exe
+C:\Users\Назар\Desktop\Lab6\Lab6\obj\x86\Debug\Lab6.pdb
+C:\Users\Назар\Desktop\Lab6\Lab6\bin\Debug\Lab6.exe
+C:\Users\Назар\Desktop\Lab6\Lab6\bin\Debug\Lab6.pdb
+C:\Users\Назар\Desktop\Lab6\Lab6\obj\x86\Debug\Lab6.csprojResolveAssemblyReference.cache
+C:\Users\Назар\Desktop\Lab6\Lab6\obj\x86\Debug\Lab6.Form1.resources
+C:\Users\Назар\Desktop\Lab6\Lab6\obj\x86\Debug\Lab6.Form2.resources
+C:\Users\Назар\Desktop\Lab6\Lab6\obj\x86\Debug\Lab6.Form3.resources
+C:\Users\Назар\Desktop\Lab6\Lab6\obj\x86\Debug\Lab6.Properties.Resources.resources
+C:\Users\Назар\Desktop\Lab6\Lab6\obj\x86\Debug\Lab6.csproj.GenerateResource.Cache
+D:\Прикладна Математика\ПМ-32\ПМ-32\Частина 2\Візуальне\Lab6\Lab6\obj\x86\Debug\Lab6.exe
+D:\Прикладна Математика\ПМ-32\ПМ-32\Частина 2\Візуальне\Lab6\Lab6\obj\x86\Debug\Lab6.pdb
+D:\Прикладна Математика\ПМ-32\ПМ-32\Частина 2\Візуальне\Lab6\Lab6\bin\Debug\Lab6.exe
+D:\Прикладна Математика\ПМ-32\ПМ-32\Частина 2\Візуальне\Lab6\Lab6\bin\Debug\Lab6.pdb
+D:\Прикладна Математика\ПМ-32\ПМ-32\Частина 2\Візуальне\Lab6\Lab6\obj\x86\Debug\Lab6.csprojResolveAssemblyReference.cache
+D:\Прикладна Математика\ПМ-32\ПМ-32\Частина 2\Візуальне\Lab6\Lab6\obj\x86\Debug\Lab6.Form1.resources
+D:\Прикладна Математика\ПМ-32\ПМ-32\Частина 2\Візуальне\Lab6\Lab6\obj\x86\Debug\Lab6.Form2.resources
+D:\Прикладна Математика\ПМ-32\ПМ-32\Частина 2\Візуальне\Lab6\Lab6\obj\x86\Debug\Lab6.Form3.resources
+D:\Прикладна Математика\ПМ-32\ПМ-32\Частина 2\Візуальне\Lab6\Lab6\obj\x86\Debug\Lab6.Properties.Resources.resources
+D:\Прикладна Математика\ПМ-32\ПМ-32\Частина 2\Візуальне\Lab6\Lab6\obj\x86\Debug\Lab6.csproj.GenerateResource.Cache
+C:\Users\NazarRock\Desktop\ProjectsforGit\Lab6\Lab6\obj\x86\Debug\Lab6.exe
+C:\Users\NazarRock\Desktop\ProjectsforGit\Lab6\Lab6\obj\x86\Debug\Lab6.pdb

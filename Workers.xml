@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Workers SYSTEM "C:\Users\Администратор\Documents\Visual Studio 2010\Projects\3 курс\Візуальне програмування\Lab6\Workers.dtd">
+<Workers>
+  <Worker ID="_1" Name="Bill" Surname="Newman" Age="22" Sex="M">
+    <Category>Admin</Category>
+    <Salary>1200</Salary>
+    <Experience>1</Experience>
+    <Adress>Burbon St. 12</Adress>
+    <MobilePhone>093-23-45-218</MobilePhone>
+  </Worker>
+  <Worker ID="_2" Name="Kate" Surname="Nash" Age="34" Sex="F">
+    <Category>Developer</Category>
+    <Salary>3000</Salary>
+    <Experience>6</Experience>
+    <Adress>Burbon St.9</Adress>
+    <HomePhone>235-74-24</HomePhone>
+  </Worker>
+</Workers>

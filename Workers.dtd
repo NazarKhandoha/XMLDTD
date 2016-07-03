@@ -1,0 +1,15 @@
+<!ELEMENT Workers (Worker+)>
+<!ELEMENT Worker (Category, Salary, Experience, Adress, (MobilePhone|HomePhone), Information?)>
+<!ELEMENT Category (#PCDATA)>
+<!ELEMENT Salary (#PCDATA)>
+<!ELEMENT Experience (#PCDATA)>
+<!ELEMENT Adress (#PCDATA)>
+<!ELEMENT MobilePhone (#PCDATA)>
+<!ELEMENT HomePhone (#PCDATA)>
+<!ELEMENT Information (#PCDATA)>
+
+<!ATTLIST Worker ID ID #REQUIRED>
+<!ATTLIST Worker Name CDATA #REQUIRED>
+<!ATTLIST Worker Surname CDATA #REQUIRED>
+<!ATTLIST Worker Age CDATA #REQUIRED>
+<!ATTLIST Worker Sex CDATA #IMPLIED>

@@ -1,0 +1,1 @@
+	Prоgram  open, read and check validity DTD and XML
